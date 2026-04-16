@@ -31,7 +31,7 @@
 
 ### 1. Keylight Core Hub (核心节点)
 
-**显示名称**: `Keylight Core (Hub V2.3.6fixE3_clean_final)`
+**显示名称**: `Keylight Core`
 
 色键抠像的核心处理节点，所有参数节点都连接到此节点。
 

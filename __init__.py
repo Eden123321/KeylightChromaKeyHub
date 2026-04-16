@@ -61,7 +61,7 @@ NODE_CLASS_MAPPINGS = {
 
 # Update display names to reflect fixE3_clean_final while keeping keys the same
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "KeylightCoreHubV3": "Keylight Core (Hub V2.3.6fixE3_clean_final)",
+    "KeylightCoreHubV3": "Keylight Core",
     "Key Spill/Algo Args (V2.3.6fixE2_clean)": "Key Spill/Algo Args (V2.3.6fixE3_clean_final)",
     "Key Protect Highlights Args (V2.3.6fixE2_clean)": "Key Protect Highlights Args (V2.3.6fixE3_clean_final)",
     "Key Edge Args (V2.3.6fixE2_clean)": "Key Edge Args (V2.3.6fixE3_clean_final)",
